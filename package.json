@@ -1,0 +1,17 @@
+{
+  "name": "hitesh-project",
+  "version": "1.0.0",
+  "description": "A backend for the final project",
+  "keywords": [
+    "Javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Hassan Qureshi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
